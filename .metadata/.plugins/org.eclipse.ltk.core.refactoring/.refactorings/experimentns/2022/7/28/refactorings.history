@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Account.java&apos; to &apos;cosc1047/src/cosc1047.assignment2.ex2&apos;&#x0D;&#x0A;- Original project: &apos;experimentns&apos;&#x0D;&#x0A;- Destination element: &apos;cosc1047/src/cosc1047.assignment2.ex2&apos;&#x0D;&#x0A;- Original element: &apos;assignment4.Account.java&apos;" description="Copy compilation unit" destination="=cosc1047/src&lt;cosc1047.assignment2.ex2" element1="/src&lt;assignment4{Account.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1657074495018" units="1" version="1.0"/>
+</session>

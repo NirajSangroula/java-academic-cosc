@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;lab4fx3.Circle&apos; to &apos;CircleTest&apos;&#x0D;&#x0A;- Original project: &apos;lab4fx3&apos;&#x0D;&#x0A;- Original element: &apos;lab4fx3.Circle&apos;&#x0D;&#x0A;- Renamed element: &apos;lab4fx3.CircleTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Circle&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;lab4fx3{Circle.java[Circle" matchStrategy="1" name="CircleTest" qualified="false" references="true" similarDeclarations="false" stamp="1657634952021" textual="false" version="1.0"/>
+</session>

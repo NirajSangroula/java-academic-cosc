@@ -1,0 +1,12 @@
+**********WELCOME TO SHERIDAN BAGEL SHOP**********
+Mon Aug 01 04:08:11 EDT 2022
+Item:			Qty	Amount
+White Bagel		3	3.75
+Toppings:
+ Cream Cheese		3	1.5
+Regular Coffee		1	1.25
+				-----------
+Pretax Total			$  5.50
+Sales Tax 13%			$ 0.72
+Total Sale 			$  6.22
+*********THANK YOU FOR YOUR ORDER*********

@@ -1,0 +1,18 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Enum"><rhs name\="javafx.geometry.HPos"/><rhs name\="javafx.geometry.Pos"/><rhs name\="javafx.scene.control.ContentDisplay"/><rhs name\="javafx.scene.control.SelectionMode"/><rhs name\="javafx.geometry.Orientation"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="javafx.geometry.HPos"/><rhs name\="javafx.geometry.Pos"/><rhs name\="javafx.scene.control.ContentDisplay"/><rhs name\="javafx.scene.control.SelectionMode"/><rhs name\="javafx.geometry.Orientation"/></lhs><lhs name\="javafx.scene.paint.Paint"><rhs name\="javafx.scene.paint.Color"/></lhs><lhs name\="javafx.util.Duration"><rhs name\="javafx.util.Duration"/></lhs></history>
+content_assist_number_of_computers=13
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.exception.name=e
+org.eclipse.jdt.ui.formatterprofiles.version=22
+org.eclipse.jdt.ui.gettersetter.use.is=true
+org.eclipse.jdt.ui.overrideannotation=true
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="java" deleted\="false" description\="System print" enabled\="true" name\="sysop">System.out.print(${cursor});</template><template autoinsert\="true" context\="java" deleted\="false" description\="Scanner object" enabled\="true" name\="sc">Scanner s \= new Scanner(System.in);${cursor}</template></templates>
+sourceHoverBackgroundColor=255,255,225
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
